@@ -1,0 +1,365 @@
+html {
+	background-image: url(https://i.imgur.com/j1FtJ78.png);
+	background-position: top top;
+	background-attachment: local;
+	background-size: 1920px 980px;
+	background-repeat: no-repeat;
+	background-color: white;
+}
+#h11 {
+	font-size: 30px;
+	color: white;
+	font-weight: bolder;
+	font: sans-serif;
+	position: absolute;
+	top: 40px;
+	left: 150px;
+}
+#btn1 {
+	position: absolute;
+	top: 66px;
+	left: 550px;
+	background-color: rgba(0, 0, 0, 0);
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+}
+#btn2 {
+	position: absolute;
+	top: 66px;
+	left: 750px;
+	background-color: rgba(0, 0, 0, 0);
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+}
+#btn3 {
+	position: absolute;
+	top: 66px;
+	left: 950px;
+	background-color: rgba(0, 0, 0, 0);
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+}
+#btn4 {
+	position: absolute;
+	top: 66px;
+	left: 1150px;
+	background-color: rgba(0, 0, 0, 0);
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+}
+#btn5 {
+	position: absolute;
+	top: 66px;
+	left: 1350px;
+	background-color: rgba(0, 0, 0, 0);
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+}
+#btn6 {
+	position: absolute;
+	top: 52px;
+	left: 1575px;
+	background-color: blueviolet;
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+	display: inline-block;
+	padding: 13px 30px;
+	border-radius: 15px;
+	text-decoration: none;
+	transition: 0.40s;
+}
+#btn6:hover {
+background-color: #E0FFFF;
+}
+#h12 {
+	position: absolute;
+	top: 150px;
+	left: 150px;
+	font-size: 80px;
+	color: white;
+}
+#h13 {
+	position: absolute;
+	top: 600px;
+	left: 150px;
+	font-size: 70px;
+	color: white;
+}
+#hd-btn {
+	position: absolute;
+	top: 900px;
+	left: 750px;
+	background-color: blueviolet;
+	color: white;
+	font-weight: normal;
+	font-size: 35px;
+	display: inline-block;
+	padding: 15px 30px;
+	border-radius: 15px;
+	text-decoration: none;
+	transition: 0.40s;
+}
+#hd-btn:hover {
+background-color: #E0FFFF;
+}
+#title1 {
+	position: absolute;
+	left: 150px;
+	top: 1050px;
+	color: black;
+	font-size: 50px;
+	font-weight: bold;
+}
+#title2 {
+	position: absolute;
+	left: 150px;
+	top: 1125px;
+	color: black;
+	font-size: 50px;
+	font-weight: bold;
+}
+.swiper {
+  position: absolute;
+  top: 1025px;
+  left: 10px;
+  width: 500px;
+  height: 250px;
+}
+.swiper-slide img {
+  position: absolute;
+  width: 500px;
+  height: 250px;
+  object-fit: fill;
+  border-radius: 15px;
+}
+#otz1 {
+	position: absolute;
+	top: 1400px;
+	left: 695px;
+	color: black;
+	font-size: 50px;
+}
+#otz2 {
+	position: absolute;
+	top: 1400px;
+	left: 1035px;
+	color: black;
+	font-size: 50px;
+	font-weight: bolder;
+}
+#img-car {
+	position: absolute;
+	top: 1550px;
+	left: 195px;
+	height: 350px;
+	width: 450px;
+	border-radius: 35px;
+}
+#av-img {
+	position: absolute;
+	top: 1530px;
+	left: 695px;
+	height: 100px;
+	width: 100px;
+	border-radius: 50px;
+}
+#otz3 {
+	position: absolute;
+	top: 1510px;
+	left: 810px;
+	font-size: 40px;
+	font-weight: lighter;
+	color: black;
+}
+#gl-otz1 {
+	position: absolute;
+	top: 1610px;
+	left: 700px;
+	font-size: 33px;
+	font-weight: bolder;
+	color: grey;
+	font: sans-serif;
+}
+#gl-otz2 {
+	position: absolute;
+	top: 1660px;
+	left: 700px;
+	font-size: 33px;
+	font-weight: bolder;
+	color: grey;
+	font: sans-serif;
+}
+#gl-otz3 {
+	position: absolute;
+	top: 1710px;
+	left: 700px;
+	font-size: 33px;
+	font-weight: bolder;
+	color: grey;
+	font: sans-serif;
+}
+#f-st {
+	position: absolute;
+	top: 1780px;
+	left: 700px;
+	height: 100px;
+	width: 320px ;
+}
+#h3-m {
+	position: absolute;
+	top: 2050px;
+	left: 580px;
+	color: black;
+	font-size: 50px;
+	font-weight: bolder;
+}
+#h3-m2 {
+	position: absolute;
+	top: 2130px;
+	left: 550px;
+	color: black;
+	font-size: 47px;
+	font-weight: bold;
+}
+#m-but {
+    position: absolute;
+	top: 2330px;
+	left: 810px;
+	background-color: orangered;
+	color: white;
+	font-weight: bold;
+	font-size: 27px;
+	display: inline-block;
+	padding: 20px 37px;
+	border-radius: 20px;
+	text-decoration: none;
+	transition: 0.40s;
+}
+#m-but:hover {
+color: yellow;
+}
+#mail-txt {
+	position: absolute;
+	top: 2600px;
+	left: 720px;
+	color: black;
+	font-size: 47px;
+	font-weight: bold;
+}
+#text-a {
+	position: absolute;
+	top: 2800px;
+	left: 550px;
+	height: 80px;
+	font-size: 30px;
+}
+#mail-but {
+	position: absolute;
+	top: 2800px;
+	left: 1400px;
+	background-color: orangered;
+	color: white;
+	font-weight: bold;
+	font-size: 27px;
+	display: inline-block;
+	padding: 20px 37px;
+	border-radius: 20px;
+	text-decoration: none;
+	transition: 0.40s;
+}
+#mail-but:hover {
+color: yellow;
+}
+#h111 {
+	font-size: 30px;
+	color: black;
+	font-weight: bolder;
+	font: sans-serif;
+	position: absolute;
+	top: 3223px;
+	left: 150px;
+}
+#btn11 {
+	position: absolute;
+	top: 3250px;
+	left: 550px;
+	background-color: rgba(0, 0, 0, 0);
+	color: black;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+}
+#btn22 {
+	position: absolute;
+	top: 3250px;
+	left: 750px;
+	background-color: rgba(0, 0, 0, 0);
+	color: black;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+}
+#btn33 {
+	position: absolute;
+	top: 3250px;
+	left: 950px;
+	background-color: rgba(0, 0, 0, 0);
+	color: black;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+}
+#btn44 {
+	position: absolute;
+	top: 3250px;
+	left: 1150px;
+	background-color: rgba(0, 0, 0, 0);
+	color: black;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+}
+#btn55 {
+	position: absolute;
+	top: 3250px;
+	left: 1350px;
+	background-color: rgba(0, 0, 0, 0);
+	color: black;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+}
+#btn66 {
+	position: absolute;
+	top: 3235px;
+	left: 1575px;
+	background-color: blueviolet;
+	color: yellow;
+	font-weight: bold;
+	font-size: 20px;
+	display: inline-block;
+	padding: 13px 30px;
+	border-radius: 15px;
+	text-decoration: none;
+	transition: 0.40s;
+}
+#btn66:hover {
+background-color: #E0FFFF;
+}
+#f-i {
+	position: absolute;
+	top: 3350px;
+	height: 20px;
+	width: 1700px;
+}
